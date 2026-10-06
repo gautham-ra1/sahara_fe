@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-inter: var(--font-inter);
+  --font-poppins: var(--font-poppins);
+  --font-sora: var(--font-sora);
+}
